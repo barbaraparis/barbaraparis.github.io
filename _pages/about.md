@@ -27,5 +27,3 @@ What is incorporated in the work:
 * Everything
 * Work
 * Support
-
-
