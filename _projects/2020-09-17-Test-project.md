@@ -1,9 +1,9 @@
 ---
-title: 'Fall Project'
-subtitle: 'This the Fall Series'
+title: 'Test'
+subtitle: 'Test Series'
 date: 2020-09-08 00:00:00
-description: This is a series for the fall.
-featured_image: '/images/demo/demo-image17.jpg'
+description: This is a test.
+featured_image: '/images/demo/demo-image16.jpg'
 ---
 
 
