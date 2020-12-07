@@ -9,6 +9,8 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ## Add something here
 
+check mic 1,2
+
 What is incorporated in the work:
 
 * Something
