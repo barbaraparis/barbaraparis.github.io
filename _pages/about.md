@@ -5,7 +5,7 @@ description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/demo/demo-test_pic.jpg)
 
 Barbara Paris’s work can be found in many public and private art collections throughout North and South America.
  
