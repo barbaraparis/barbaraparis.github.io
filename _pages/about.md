@@ -1,6 +1,6 @@
 ---
 title: About Barbara J Paris
-subtitle: An Artist from Austin Texas.
+subtitle: An Artist based in Austin texas.
 description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
 featured_image: /images/demo/demo-landscape.jpg
 ---
