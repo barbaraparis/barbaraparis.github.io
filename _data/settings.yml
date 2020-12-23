@@ -17,6 +17,8 @@ menu_settings:
       url: '/about'
     - title: 'Contact'
       url: '/contact'
+    - title: 'Workshops'
+      url: '/workshops'
 
 grid_settings:
   overlay_opacity: 0.8
