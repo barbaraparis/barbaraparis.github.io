@@ -9,7 +9,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 Some explanation of this video
 
-<iframe src="https://youtu.be/5TQvlDH82Gs" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://youtu.be/5TQvlDH82Gs/" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Another explanation of this video
 
