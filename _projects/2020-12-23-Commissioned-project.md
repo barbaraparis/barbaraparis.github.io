@@ -7,9 +7,10 @@ featured_image: '/images/demo/demo-image15.jpg'
 ---
 
 
-### Commissioned Work
+Barbara creates commissioned pieces at the request of a client. She loves to work with you based on your space, colors, feeling of the piece, and material. Her work has included indoor and outdoor work, murals for both schools, organizations, and individuals, pieces for yoga studios, and most frequently paintings of all sizes for homes. 
 
-Barbara creates unique pieces for individual or business space based on specific size and color preferences. Her work is specialized to fit
+Her passion for creating art for individual spaces speaks to her vision of the world and creating and aligning with the beauty she sees every day. 
+
 
 <div class="gallery" data-columns="3">
 	<img src="/images/demo/demo-portrait.jpg">
