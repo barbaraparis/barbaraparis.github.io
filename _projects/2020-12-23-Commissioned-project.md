@@ -3,7 +3,7 @@ title: 'Commissioned Pieces'
 subtitle:
 date: 2020-12-23 00:00:00
 description: These are commissioned pieces.
-featured_image: '/images/demo/demo-image15.jpg'
+featured_image: '/images/demo/square2_commission.jpg'
 ---
 
 
