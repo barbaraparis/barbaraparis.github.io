@@ -6,8 +6,10 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/demo/demo-image18.jpg'
 ---
 
+
+![](/images/demo/bp7.jpg)
+
 <!---
-![](/images/demo/demo-landscape.jpg)
 
 ## Demo content
 
