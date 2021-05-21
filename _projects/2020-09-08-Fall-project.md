@@ -14,6 +14,7 @@ Her vision aligns with her constant natural state of always looking for the art 
 
 <div class="gallery" data-columns="3">
 	<img src="/images/demo/healing_portrait.jpg">
+	<p><center>Describe</center></p>
 	<img src="/images/demo/landscape2_heart.jpg">
 	<img src="/images/demo/tortured_heart.jpg">
 	<img src="/images/demo/landscape_heart.jpg">
