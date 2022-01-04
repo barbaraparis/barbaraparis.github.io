@@ -13,4 +13,4 @@ Currently based in Austin, Texas, she was born in New York City and raised in Ne
  
 Barbara describes her work as intention. That is, she puts the paint where it belongs and the paint goes on to become what it is. She works with strong color and texture, adding elements such as glass and paper to the canvas, the purpose of which is to surround herself with things that make her feel good, and to share that feeling with others.
 
-To inquire about a piece or to contact Barbara, email: <bararajparis@gmail.com>
+To inquire about a piece or to contact Barbara, email <bararajparis@gmail.com>
