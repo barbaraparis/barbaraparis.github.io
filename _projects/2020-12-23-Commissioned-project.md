@@ -13,11 +13,10 @@ Her passion for creating art for individual spaces speaks to her vision of the w
 
 
 <div class="gallery" data-columns="3">
-	<img src="/images/demo/portrait_commission.jpg">
+	<img src="/images/demo/kapow.jpg">
 	<img src="/images/demo/square3_commission.jpg">
 	<img src="/images/demo/square2_commission.jpg">
 	<img src="/images/demo/portrait2_commission.jpg">
 	<img src="/images/demo/buddha.jpg">
-	<img src="/images/demo/kapow.jpg">
 
 </div>
