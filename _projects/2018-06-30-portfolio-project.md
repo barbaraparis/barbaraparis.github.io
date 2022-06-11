@@ -7,8 +7,12 @@ featured_image: '/images/demo/square3_commission.jpg'
 ---
 
 
-![](/images/demo/bp7.jpg)
-![](/images/demo/Didyouseethesunaftertherain.jpg)
+<div class="gallery" data-columns="3">
+	<img src="/images/demo/Didyouseethesunaftertherain.jpg.jpg">
+	<img src="/images/demo/landscape2_heart.jpg">
+	<img src="/images/demo/tortured_heart.jpg">
+	<img src="/images/demo/landscape_heart.jpg">
+</div>
 
 <!---
 
