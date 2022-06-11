@@ -16,6 +16,7 @@ featured_image: '/images/demo/square3_commission.jpg'
 	<img src="/images/demo/star.jpg">
 	<img src="/images/demo/blue.jpg">
 	<img src="/images/demo/brownart.jpg">
+	<img src="/images/demo/red_swirl.jpg">
 </div>
 
 <!---
