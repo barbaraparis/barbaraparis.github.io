@@ -7,11 +7,8 @@ featured_image: '/images/demo/square3_commission.jpg'
 ---
 
 
-
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/Didyouseethesunaftertherain.jpg.jpg">
-	<img src="/images/demo/bp7.jpg">
-</div>
+![](/images/demo/bp7.jpg)
+![](/images/demo/Didyouseethesunaftertherain.jpg)
 
 <!---
 
