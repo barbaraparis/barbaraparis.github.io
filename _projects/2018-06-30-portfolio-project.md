@@ -17,6 +17,7 @@ featured_image: '/images/demo/touchofgrey.jpg'
 	<img src="/images/demo/blue.jpg">
 	<img src="/images/demo/brownart.jpg">
 	<img src="/images/demo/red_swirl.jpg">
+	<img src="/images/demo/ice_gold.jpg">
 </div>
 
 <!---
