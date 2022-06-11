@@ -9,7 +9,7 @@ Barbara’s background is in art education, and as an educator, she has brought 
 
 She works with non-profits, public and private schools, scout troops, local organizations, and small groups to provide art instruction for a range of levels. Barbara loves working with community members and sharing her passion. 
 
-To inquire about setting up a workshop for your organization or group, email: <bararajparis@gmail.com>
+To inquire about setting up a workshop for your organization or group, email: <barbarajparis@gmail.com>
 
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/5TQvlDH82Gs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
