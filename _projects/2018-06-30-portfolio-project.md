@@ -8,10 +8,8 @@ featured_image: '/images/demo/square3_commission.jpg'
 
 
 <div class="gallery" data-columns="3">
-	<img src="/images/demo/Didyouseethesunaftertherain.jpg.jpg">
+	<img src="/images/demo/octopus.jpg">
 	<img src="/images/demo/landscape2_heart.jpg">
-	<img src="/images/demo/tortured_heart.jpg">
-	<img src="/images/demo/landscape_heart.jpg">
 </div>
 
 <!---
