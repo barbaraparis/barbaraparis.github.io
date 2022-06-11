@@ -20,4 +20,6 @@ Her vision aligns with her constant natural state of always looking for the art 
 	<img src="/images/demo/landscape2_heart.jpg">
 	<img src="/images/demo/tortured_heart.jpg">
 	<img src="/images/demo/landscape_heart.jpg">
+	<img src="/images/demo/bikeheart.jpg">
+	<img src="/images/demo/dripheart.jpg">
 </div>
