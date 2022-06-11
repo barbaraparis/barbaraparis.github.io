@@ -8,7 +8,7 @@ featured_image: '/images/demo/touchofgrey.jpg'
 
 
 <div class="gallery" data-columns="3">
-	<img src="/images/demo/octopus.jpg"title="20x20 oil on canvas">
+	<img src="/images/demo/octopus.jpg">
 	<img src="/images/demo/touchofgrey.jpg">
 	<img src="/images/demo/wavetothewind.jpg">
 	<img src="/images/demo/gold.jpg">
