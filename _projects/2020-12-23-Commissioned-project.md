@@ -17,4 +17,7 @@ Her passion for creating art for individual spaces speaks to her vision of the w
 	<img src="/images/demo/square3_commission.jpg">
 	<img src="/images/demo/square2_commission.jpg">
 	<img src="/images/demo/portrait2_commission.jpg">
+	<img src="/images/demo/buddha.jpg">
+	<img src="/images/demo/kapow.jpg">
+
 </div>
