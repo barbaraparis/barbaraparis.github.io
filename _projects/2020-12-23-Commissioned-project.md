@@ -26,5 +26,5 @@ Her passion for creating art for individual spaces speaks to her vision of the w
 	<img src="/images/demo/commission/IMG_5652.jpg">
 	<img src="/images/demo/commission/IMG_5663.jpg">
 	<img src="/images/demo/commission/IMG_6154_Original.jpg">
-
+	<img src="/images/demo/commission/bird.jpg">
 </div>
