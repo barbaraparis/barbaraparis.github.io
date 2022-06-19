@@ -17,7 +17,6 @@ featured_image: '/images/demo/touchofgrey.jpg'
 	<img src="/images/demo/brownart.jpg">
 	<img src="/images/demo/red_swirl.jpg">
 	<img src="/images/demo/ice_gold.jpg">
-	<img src="/images/demo/people.jpg">
 	<img src="/images/demo/red_line.jpg">
 	<img src="/images/demo/kapow2.jpg">
 	<img src="/images/demo/vFlowers blooming_Original.jpg">
@@ -26,7 +25,6 @@ featured_image: '/images/demo/touchofgrey.jpg'
 	<img src="/images/demo/tree.jpg">
 	<img src="/images/demo/canvas.jpg">
 	<img src="/images/demo/night_becomes_the_day.jpg">
-	<img src="/images/demo/port/Original.jpg">
 	<img src="/images/demo/port/the-wind_Original.jpg">
 	<img src="/images/demo/port/sun_Original.jpg">
 	<img src="/images/demo/port/20ginal.jpg">
