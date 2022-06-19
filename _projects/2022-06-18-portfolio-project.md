@@ -25,7 +25,6 @@ featured_image: '/images/demo/touchofgrey.jpg'
 	<img src="/images/demo/green_line.jpg">
 	<img src="/images/demo/moss.jpg">
 	<img src="/images/demo/tree.jpg">
-	<img src="/images/demo/tree.jpg">
 	<img src="/images/demo/canvas.jpg">
 	<img src="/images/demo/night_becomes_the_day.jpg">
 </div>
