@@ -27,6 +27,8 @@ featured_image: '/images/demo/touchofgrey.jpg'
 	<img src="/images/demo/tree.jpg">
 	<img src="/images/demo/canvas.jpg">
 	<img src="/images/demo/night_becomes_the_day.jpg">
+	<img src="/images/demo/port/Original.jpg">
+	<img src="/images/demo/port/the-wind_Original.jpg">
 </div>
 
 hello
