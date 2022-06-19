@@ -22,7 +22,9 @@ featured_image: '/images/demo/touchofgrey.jpg'
 	<img src="/images/demo/red_line.jpg">
 	<img src="/images/demo/kapow2.jpg">
 	<img src="/images/demo/vFlowers blooming_Original.jpg">
-	<img src="/images/demo/whimsyOriginal.jpg">
+	<img src="/images/demo/green_line.jpg">
+	<img src="/images/demo/moss.jpg">
+	<img src="/images/demo/tree.jpg">
 </div>
 
 hello
