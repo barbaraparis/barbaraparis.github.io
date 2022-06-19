@@ -20,6 +20,11 @@ Her passion for creating art for individual spaces speaks to her vision of the w
 	<img src="/images/demo/buddha.jpg">
 	<img src="/images/demo/margie.jpg">
 	<img src="/images/demo/yoga.jpg">
-	<img src="/images/demo/yoga2.jpg">
+	<img src="/images/demo/commission/IMG_5538.jpg">
+	<img src="/images/demo/commission/IMG_5638.jpg">
+	<img src="/images/demo/commission/IMG_5640.jpg">
+	<img src="/images/demo/commission/IMG_5652.jpg">
+	<img src="/images/demo/commission/IMG_5663.jpg">
+	<img src="/images/demo/commission/IMG_6154_Original.jpg">
 
 </div>
