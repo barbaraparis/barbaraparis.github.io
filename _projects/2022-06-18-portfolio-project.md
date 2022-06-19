@@ -21,6 +21,8 @@ featured_image: '/images/demo/touchofgrey.jpg'
 	<img src="/images/demo/people.jpg">
 	<img src="/images/demo/red_line.jpg">
 	<img src="/images/demo/kapow2.jpg">
+	<img src="/images/demo/vFlowers blooming_Original.jpg">
+	<img src="/images/demo/whimsyOriginal.jpg">
 </div>
 
 hello
