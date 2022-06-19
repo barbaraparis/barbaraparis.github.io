@@ -23,6 +23,8 @@ featured_image: '/images/demo/touchofgrey.jpg'
 	<img src="/images/demo/kapow2.jpg">
 </div>
 
+hello
+
 <!---
 
 ## Demo content
